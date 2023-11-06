@@ -1,1 +1,14 @@
 # 由于作者本人时间有限，关于该作品的详细介绍还在酝酿中，目前只是上传了源码和PCB图纸。
+
+- project
+  - src
+    - main
+      - java
+      - resources
+    - test
+      - java
+      - resources
+  - target
+  - docs
+  - README.md
+  - ...
