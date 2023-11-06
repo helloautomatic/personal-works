@@ -49,7 +49,8 @@
 
 总共五个玩家在线，其中有两对玩家在对弈，也就是四个玩家在玩游戏，其余的一个玩家没找到匹配。当然了，这里没有考虑当玩家数量达到一定规模的时候，
 服务端的负载问题。
-![image](https://github.com/helloautomatic/personal-works/assets/88640443/c589c7d4-3ce4-4fd7-9762-162e761e9d79)
+![image](https://github.com/helloautomatic/personal-works/assets/88640443/e788969f-07d0-482b-a64f-e204824b99b4)
+
 
 
 ## 中国象棋新玩法的扩展及其介绍（该功能尚未实现）
