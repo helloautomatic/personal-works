@@ -42,10 +42,21 @@ sublime Text3——主要用作编辑器
 # 编辑和编译选项
 
 ## 芯片选型
-![image](https://github.com/helloautomatic/personal-works/assets/88640443/6a36e81b-389d-4cfc-81b6-55165d98e5e7)
+![image](https://github.com/helloautomatic/personal-works/assets/88640443/38f063b8-f6ac-456d-89dd-d8029561e61c)
 
 ## 晶振频率设置
-![image](https://github.com/helloautomatic/personal-works/assets/88640443/5bf07706-e4a2-4757-ad72-7520fd2e1205)
+![image](https://github.com/helloautomatic/personal-works/assets/88640443/bab58d38-bea8-4fb3-baed-17a2bc7067e2)
+
+## C/C++选项
+![image](https://github.com/helloautomatic/personal-works/assets/88640443/7ae63c17-10b0-49e8-a19d-523da3eed492)
+
+## Debug选项
+![image](https://github.com/helloautomatic/personal-works/assets/88640443/c718c2f4-22c0-48d4-9655-f657ba6aa9bf)
+
+## 软件烧录选项
+![image](https://github.com/helloautomatic/personal-works/assets/88640443/7feae7e5-62b8-4794-9484-88364305f640)
+
+
 
 
 
