@@ -42,6 +42,10 @@ sublime Text3——主要用作编辑器
     - myiic.c
 
 # 编辑和编译选项
+## 打开方式
+方式1：Project--->Options for Target'工程名字'
+
+方式2：Alt + F7
 
 ## 芯片选型
 ![image](https://github.com/helloautomatic/personal-works/assets/88640443/38f063b8-f6ac-456d-89dd-d8029561e61c)
@@ -57,6 +61,13 @@ sublime Text3——主要用作编辑器
 
 ## 软件烧录选项
 ![image](https://github.com/helloautomatic/personal-works/assets/88640443/7feae7e5-62b8-4794-9484-88364305f640)
+
+## 乱码问题的可能解决方法
+
+Edit--->Configuration
+
+![image](https://github.com/helloautomatic/personal-works/assets/88640443/ce0dc2dc-dc04-4959-a0ee-e08b2146d7cd)
+
 
 
 
