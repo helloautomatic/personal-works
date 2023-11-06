@@ -32,11 +32,19 @@ msvc {
 
 默认情况下（刚安装好的Qt Creator），一个Qt Creator界面只能运行一个程序，不过可以通过以下方式修改
 
-首先
+**首先**
+
 ![image](https://github.com/helloautomatic/personal-works/assets/88640443/497fd688-47cb-4d64-8631-44fa88c85227)
 
-其次
+**其次**
+
 ![image](https://github.com/helloautomatic/personal-works/assets/88640443/e61e9d0a-2e46-40a7-b2ae-da38f93c5f1e)
+
+**运行多个客户端，用于模拟多个玩家在线的情况，比如运行三个客户端，代表三个玩家在线**
+
+![image](https://github.com/helloautomatic/personal-works/assets/88640443/ee9f4d53-2795-4422-8fbf-86f108abbb30)
+
+
 
 
 
