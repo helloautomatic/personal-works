@@ -42,7 +42,7 @@ sublime Text3——主要用作编辑器
     - myiic.c
 
 # 编辑和编译选项
-## 打开方式
+### 打开方式
 方式1：Project--->Options for Target'工程名字'
 
 方式2：Alt + F7
@@ -64,6 +64,7 @@ sublime Text3——主要用作编辑器
 
 ## 乱码问题的可能解决方法
 
+### 打开方式
 Edit--->Configuration
 
 ![image](https://github.com/helloautomatic/personal-works/assets/88640443/ce0dc2dc-dc04-4959-a0ee-e08b2146d7cd)
